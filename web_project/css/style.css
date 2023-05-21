@@ -1,0 +1,22 @@
+body{  
+  background-repeat: no-repeat;  
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+  overflow: auto;
+ } 
+ .logo-png{ 
+height: 10px;
+font-weight:10px; 
+}
+
+/* Thick red border */
+hr.new4 {
+  border: 1px solid red;
+}
+.aspect {
+  background-color: red;
+  position: relative;
+  width: 10%;
+  padding-top: 975%; /* 4:3 Aspect Ratio */
+}
